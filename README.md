@@ -3,6 +3,38 @@
 
 A Library Management System is a small computer program that helps store and manage book information.
 In this project, you can:
+🌟 UNIQUE FEATURES INCLUDED
+⭐ 1. Password Login System
+
+Prevents unauthorized access.
+
+⭐ 2. File Handling
+
+Books are saved in library.txt and loaded automatically.
+
+⭐ 3. Search Book by ID
+
+Makes locating books easy.
+
+⭐ 4. Delete Book Feature
+
+Removes a book and shifts all others.
+
+⭐ 5. Update/Edit Book Details
+
+Allows modifying book title and author.
+
+⭐ 6. Duplicate ID Prevention
+
+Avoids repeated book entries.
+
+⭐ 7. Clean Table Display
+
+Shows books in a neat formatted table.
+
+⭐ 8. Professional, Real-world feel
+
+Very impressive for school/college projects.
 
 Add a new book
 
@@ -150,9 +182,11 @@ Book deleted successfully!
 5. Exit
 Enter your choice:
 
+![WhatsApp Image 2025-11-26 at 10 44 56](https://github.com/user-attachments/assets/4205913e-5280-4534-96ad-764b2d72759f)
+
+![WhatsApp Image 2025-11-26 at 10 44 57](https://github.com/user-attachments/assets/83ae20ef-f6aa-44b7-a0fc-f784769a94a4)
 
 
-![Uploading image.png…]()
 
 The user can add, view, search, and delete books from the system.  
 The program uses standard C libraries like stdio.h, stdlib.h, and string.h.
